@@ -1,3 +1,6 @@
 print("Ema Dhea S. Madrigal")
 print("Dili, Gasan, Marinduque")
 print("July 24, 2002")
+print("Marinduque State College")
+print("Bachelor of Science in Information Technology")
+print("2nd year - Section: D")
